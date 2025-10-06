@@ -1,0 +1,36 @@
+.h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.navbar{
+    background-color: rgb(48, 49, 49);
+    padding: 2px;
+    text-align: center;
+    font-weight:bold
+}
+.navbar ul li{
+    display: inline;
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+.header{
+    text-align: center;
+    padding: 10px;
+}
+footer{
+    background-color: lightgrey;
+    text-align: center;
+}
+.table{
+    border-collapse: collapse;
+}
+
+.table td{
+    border-style: solid;
+    padding: 5px;
+;
+}
+.table th{
+    padding: 5px;
+}

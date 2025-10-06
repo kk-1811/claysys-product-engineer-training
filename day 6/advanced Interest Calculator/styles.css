@@ -1,0 +1,44 @@
+body{
+  font-family: arial;
+}
+h1{
+  text-align: center;
+}
+p{
+  margin-left: 20px;
+}
+.content{
+  margin-left: 35%;
+  margin-top: 10%;
+  width: 450px;
+  height: 100%;
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align: left;
+  align-items: center;
+  padding: 20px;
+}
+
+.box1{
+  padding: 10px 110px;
+  margin: 5px;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+
+.btn{
+  padding: 10px 120px;
+  background-color: rgba(24, 210, 36, 0.918);
+  border: none;
+  margin-top: 30px;
+  border-radius: 5px;
+  margin-left: 22px;
+  color: white;
+  font-size: large;
+}
+
+.info{
+  font-size: large;
+  font-weight: bold;
+}
+

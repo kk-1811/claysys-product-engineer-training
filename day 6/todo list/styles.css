@@ -1,0 +1,71 @@
+body{
+  font-family: arial;
+}
+
+div{
+  margin-left: 30%;
+  margin-top: 10%;
+  width: 370px;
+  height: 100%;
+  border: 1px solid black;
+  padding-left: 5%;
+  padding-right: 5%;
+  border-radius: 5px;
+}
+
+.inbox{
+  border: 2px solid rgb(200, 199, 199) ;
+  width: 250px;
+  font-size: large;
+  border-radius: 5px;
+  padding-left: 5px;
+  height: 40px;
+}
+
+.btn1{
+  padding-top: 15px;
+  padding-bottom: 12px;
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #007BFF;
+  font-size: medium;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+li{
+  border-bottom: 1px solid ;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  font-size: x-large;
+  justify-content: space-between;
+}
+
+.check{
+  background-color: black;
+  margin-right: 100px;
+  margin-left: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.btn2{
+  background-color: #c82333;
+  font-size: small;
+  border-radius: 5px;
+  color: white;
+  border: none;
+  padding-bottom: 5px;
+  margin-left: 100px;
+  margin-right: 0%;
+  padding-left:10px;
+  padding-right: 10px;
+  padding-top: 5px;
+}
+ul{
+  list-style-type: none;
+  padding: 0px;
+}
+

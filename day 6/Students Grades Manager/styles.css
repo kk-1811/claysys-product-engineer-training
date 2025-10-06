@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fff;
+}
+
+.container {
+    width: 350px;
+    margin: 40px auto;
+    height: 100%;
+    border: 2px solid #2196F3;
+    border-radius: 5px;
+    padding: 24px 20px;
+    box-shadow: 0 0 10px #eaeaea;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 18px;
+    font-size: 26px;
+}
+
+label {
+    display: block;
+    margin: 10px 0 2px 2px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 8px 6px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 1px solid #bdbdbd;
+    border-radius: 3px;
+}
+
+button {
+    display: block;
+    width: 65%;
+    padding: 8px 0;
+    margin: 10px auto 0 auto;
+    background: #2196F3;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+.grades-list {
+    margin: 18px 0 12px 0;
+}
+
+#gradesList {
+    padding-left: 18px;
+    margin: 0;
+}
+
+#averageContainer {
+    margin: 18px 0 0 0;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    color: #333;
+}
+
+#averageGrade {
+    display: inline-block;
+    min-width: 48px;
+    margin-left: 8px;
+    font-weight: 800;
+}
