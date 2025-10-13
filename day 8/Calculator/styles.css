@@ -1,0 +1,56 @@
+body{
+    font-family: arial;
+    display: block;
+    margin-left: 39%;
+    margin-right: 35%;
+    margin-top: 5%;
+}
+
+.buttons{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, 40px);
+    gap: 10px 40px;
+}
+
+button{
+    background-color: #e5e7eb;
+    border: 2px solid #9ca3af;
+    border-radius: 4px;
+    padding: 20px 37px 20px 30px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+
+.inpbox{
+    width: 286px;
+    padding: 10px;
+    height: 50px;
+    border: 2px solid #9ca3af;
+    background-color: #ebebec;
+    border-radius: 4px;
+    margin-top: -6px;
+    text-align: end;
+    font-size: xx-large;
+    font-family: monospace;
+}
+
+.calculator{
+    border: 1px solid black;
+    padding: 20px;
+    width: 312px;
+    height: 100%;
+    border-radius: 4px;
+    background-color: white;
+}
+
+.outer{
+    width: 354px;
+    padding: 15px;
+    border: 1px solid #367bf1;
+    background-color: #e4e5e7;
+    border-radius: 4px;
+}

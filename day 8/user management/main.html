@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Management</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="outer">
+        <div class="content">
+            <div class="adduser">
+                <div class="border1">
+                    <h3>Add User</h3>
+                </div>
+                <label for="name">Name:</label>
+                <input id="name">
+                <label for="email">Email:</label>
+                <input id="email">
+                <label for="role">Role:</label>
+                <select name="user role" id="role">
+                    <option value="admin">Admin</option>
+                    <option value="guest">Guest</option>
+                    <option value="staff">Staff</option>
+                </select>
+                <button id="enter">Add User</button>
+            </div>
+            <div class="userlist">
+                <div class="border2">
+                    <h3>User List</h3>
+                </div>
+                <ol>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
