@@ -1,0 +1,268 @@
+body {
+    font-family: 'Poppins', Arial, sans-serif;
+    background: #141419;
+    margin: 0;
+    min-height: 100vh;
+    color: #f6f6f7;
+}
+header, .main-header {
+    background: linear-gradient(135deg, #1a000d 0%, #800026 100%);
+    color: #fff;
+    padding: 32px 32px 16px 32px;
+    border-radius: 18px 18px 0 0;
+    text-align: left;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 40px;
+    box-shadow: 0px 8px 30px rgba(130, 0, 38, 0.13);
+    letter-spacing: 0.5px;
+}
+.form-row, .events-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 36px;
+    justify-content: center;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.card, .event-card, .modal-content, .admin-section {
+    background: #1c1c21;
+    border-radius: 18px;
+    box-shadow: 0px 8px 28px rgba(130, 0, 38, 0.07);
+    padding: 32px 26px;
+    margin: 20px auto;
+    min-width: 340px;
+    max-width: 430px;
+}
+input, select, textarea {
+    width: 100%;
+    padding: 13px 14px;
+    border-radius: 8px;
+    border: 1.5px solid #3c1a21;
+    background: #18181c;
+    color: #fff;
+    margin-bottom: 14px;
+    font-size: 1rem;
+    transition: border-color 0.2s, background 0.2s;
+    box-sizing: border-box;
+}
+input:focus, select:focus, textarea:focus {
+    border-color: #e63946;
+    outline: none;
+    background: #241921;
+}
+label {
+    margin-bottom: 7px;
+    font-weight: 500;
+    letter-spacing: 0.2px;
+    color: #f194a2;
+    display: block;
+}
+select {
+    appearance: none;
+    min-height: 48px;
+    z-index: 2;
+    background-image:
+        linear-gradient(45deg, transparent 49%, #fff 51%),
+        linear-gradient(135deg, #fff 49%, transparent 51%);
+    background-position:
+        calc(100% - 28px) calc(1em + 2px),
+        calc(100% - 23px) calc(1em + 2px);
+    background-size: 5px 5px, 5px 5px;
+    background-repeat: no-repeat;
+    padding-right: 40px;
+}
+select option {
+    background: #1c1c21;
+    color: #f6f6f7;
+}
+form button, .button-primary, .header-buttons button, #backupBtn {
+    background: linear-gradient(90deg, #e63946 0%, #800026 100%);
+    color: #fff;
+    padding: 14px 0;
+    border-radius: 8px;
+    border: none;
+    font-weight: bold;
+    font-size: 1.09rem;
+    width: 100%;
+    margin-top: 8px;
+    margin-bottom: 6px;
+    cursor: pointer;
+    transition: background 0.15s, box-shadow 0.15s;
+    box-shadow: 0 2px 10px rgba(230,57,70,0.10);
+}
+form button:hover, .button-primary:hover, #backupBtn:hover {
+    background: linear-gradient(90deg, #ad1b32 0%, #2d0013 100%);
+}
+.header-buttons {
+    gap: 14px;
+    display: flex;
+    margin-bottom: 8px;
+    justify-content: flex-end;
+}
+.header-buttons button#addEventBtn {
+    background: #057a55;
+}
+.header-buttons button#addEventBtn:hover {
+    background: #04553a;
+}
+.header-buttons button#adminPanelBtn {
+    background: #feb72b;
+    color: #222;
+}
+.header-buttons button#adminPanelBtn:hover {
+    background: #c98412;
+    color: #fff;
+}
+input[type="file"] {
+    display: none;
+}
+.file-btn {
+    display: inline-block;
+    padding: 12px 28px;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #e63946 30%, #800026 100%);
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 1.05rem;
+    transition: background 0.18s, box-shadow 0.18s;
+    box-shadow: 0 2px 8px rgba(230,57,70,0.10);
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border: none;
+    letter-spacing: 0.7px;
+    text-align: center;
+}
+.file-btn:hover, .file-btn:focus {
+    background: linear-gradient(90deg, #ad1b32 0%, #2d0013 100%);
+    box-shadow: 0 4px 16px rgba(194,39,60,0.14);
+    outline: none;
+}
+.event-card, .modal-content, .admin-section {
+    box-shadow: 0px 6px 28px rgba(130, 0, 38, 0.17);
+}
+.event-card h3, .admin-section h3 {
+    color: #e63946;
+    margin-bottom: 11px;
+}
+.status {
+    padding: 6px 16px;
+    border-radius: 7px;
+    font-weight: 600;
+    margin-top: 8px;
+    font-size: 0.8rem;
+    display: inline-block;
+}
+.status.Planning {
+    background: #feb72b; color: #222;
+}
+.status.Finalized {
+    background: #057a55; color: #fff;
+}
+.status.Canceled {
+    background: #e63946; color: #fff;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+    background: #18181c;
+    border-radius: 7px;
+    overflow: hidden;
+    color: #f6f6f7;
+}
+table th, table td {
+    padding: 10px 14px;
+    border: 1px solid #3c1a21;
+    text-align: left;
+}
+table tr:nth-child(even) {
+    background-color: #1a1b22;
+}
+table tr:hover {
+    background-color: #22141c;
+}
+table button {
+    border-radius: 6px;
+    background: linear-gradient(90deg, #e63946 0%, #800026 100%);
+    color: #fff;
+    padding: 6px 14px;
+    border: none;
+    font-size: 0.93rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.15s, box-shadow 0.15s;
+    box-shadow: 0 2px 6px rgba(230,57,70,0.10);
+    margin-right: 4px;
+}
+table button:hover {
+    background: linear-gradient(90deg, #ad1b32 0%, #2d0013 100%);
+}
+.event-buttons {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 12px;
+}
+.event-buttons button {
+    flex: 1;
+    padding: 10px 0;
+    border-radius: 8px;
+    border: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: background 0.15s, box-shadow 0.15s;
+    box-shadow: 0 2px 6px rgba(230,57,70,0.12);
+}
+.event-buttons button.edit-event {
+    background: linear-gradient(90deg, #057a55 0%, #028a63 100%);
+    color: #fff;
+}
+.event-buttons button.edit-event:hover {
+    background: linear-gradient(90deg, #04553a 0%, #016841 100%);
+}
+.event-buttons button.manage-guests {
+    background: linear-gradient(90deg, #feba2b 0%, #d48f00 100%);
+    color: #222;
+}
+.event-buttons button.manage-guests:hover {
+    background: linear-gradient(90deg, #c98412 0%, #9b6700 100%);
+    color: #fff;
+}
+.event-buttons button.manage-agenda {
+    background: linear-gradient(90deg, #8b57c4 0%, #5a2a96 100%);
+    color: #fff;
+}
+.event-buttons button.manage-agenda:hover {
+    background: linear-gradient(90deg, #5a2a96 0%, #3d1a65 100%);
+}
+.event-buttons button.delete-event {
+    background: linear-gradient(90deg, #e63946 0%, #800026 100%);
+    color: #fff;
+}
+.event-buttons button.delete-event:hover {
+    background: linear-gradient(90deg, #ad1b32 0%, #2d0013 100%);
+}
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0; top: 0; width: 100%; height: 100%;
+    background: rgba(30,0,18,0.18);
+    justify-content: center; align-items: center;
+}
+@media (max-width: 950px) {
+    .form-row, .events-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .card, .event-card, .admin-section, .modal-content {
+        min-width: 90vw;
+        max-width: 98vw;
+    }
+    header, .main-header {
+        padding-left: 6vw; padding-right: 6vw;
+    }
+}
