@@ -1,0 +1,14 @@
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotNetTutorial\datatypes\bin\Debug\net8.0\datatypes.exe
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotNetTutorial\datatypes\bin\Debug\net8.0\datatypes.deps.json
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotNetTutorial\datatypes\bin\Debug\net8.0\datatypes.runtimeconfig.json
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotNetTutorial\datatypes\bin\Debug\net8.0\datatypes.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotNetTutorial\datatypes\bin\Debug\net8.0\datatypes.pdb
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotNetTutorial\datatypes\obj\Debug\net8.0\datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotNetTutorial\datatypes\obj\Debug\net8.0\datatypes.AssemblyInfoInputs.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotNetTutorial\datatypes\obj\Debug\net8.0\datatypes.AssemblyInfo.cs
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotNetTutorial\datatypes\obj\Debug\net8.0\datatypes.csproj.CoreCompileInputs.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotNetTutorial\datatypes\obj\Debug\net8.0\datatypes.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotNetTutorial\datatypes\obj\Debug\net8.0\refint\datatypes.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotNetTutorial\datatypes\obj\Debug\net8.0\datatypes.pdb
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotNetTutorial\datatypes\obj\Debug\net8.0\datatypes.genruntimeconfig.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotNetTutorial\datatypes\obj\Debug\net8.0\ref\datatypes.dll
