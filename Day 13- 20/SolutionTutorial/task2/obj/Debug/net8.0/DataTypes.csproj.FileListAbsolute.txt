@@ -1,0 +1,14 @@
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\SolutionTutorial\DataTypes\bin\Debug\net8.0\DataTypes.exe
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\SolutionTutorial\DataTypes\bin\Debug\net8.0\DataTypes.deps.json
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\SolutionTutorial\DataTypes\bin\Debug\net8.0\DataTypes.runtimeconfig.json
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\SolutionTutorial\DataTypes\bin\Debug\net8.0\DataTypes.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\SolutionTutorial\DataTypes\bin\Debug\net8.0\DataTypes.pdb
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\SolutionTutorial\DataTypes\obj\Debug\net8.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\SolutionTutorial\DataTypes\obj\Debug\net8.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\SolutionTutorial\DataTypes\obj\Debug\net8.0\DataTypes.AssemblyInfo.cs
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\SolutionTutorial\DataTypes\obj\Debug\net8.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\SolutionTutorial\DataTypes\obj\Debug\net8.0\DataTypes.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\SolutionTutorial\DataTypes\obj\Debug\net8.0\refint\DataTypes.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\SolutionTutorial\DataTypes\obj\Debug\net8.0\DataTypes.pdb
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\SolutionTutorial\DataTypes\obj\Debug\net8.0\DataTypes.genruntimeconfig.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\SolutionTutorial\DataTypes\obj\Debug\net8.0\ref\DataTypes.dll
