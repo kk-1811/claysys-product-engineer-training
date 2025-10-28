@@ -1,0 +1,14 @@
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotnetSolution\DotNetTutorial\bin\Debug\net8.0\DotNetTutorial.exe
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotnetSolution\DotNetTutorial\bin\Debug\net8.0\DotNetTutorial.deps.json
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotnetSolution\DotNetTutorial\bin\Debug\net8.0\DotNetTutorial.runtimeconfig.json
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotnetSolution\DotNetTutorial\bin\Debug\net8.0\DotNetTutorial.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotnetSolution\DotNetTutorial\bin\Debug\net8.0\DotNetTutorial.pdb
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotnetSolution\DotNetTutorial\obj\Debug\net8.0\DotNetTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotnetSolution\DotNetTutorial\obj\Debug\net8.0\DotNetTutorial.AssemblyInfoInputs.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotnetSolution\DotNetTutorial\obj\Debug\net8.0\DotNetTutorial.AssemblyInfo.cs
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotnetSolution\DotNetTutorial\obj\Debug\net8.0\DotNetTutorial.csproj.CoreCompileInputs.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotnetSolution\DotNetTutorial\obj\Debug\net8.0\DotNetTutorial.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotnetSolution\DotNetTutorial\obj\Debug\net8.0\refint\DotNetTutorial.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotnetSolution\DotNetTutorial\obj\Debug\net8.0\DotNetTutorial.pdb
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotnetSolution\DotNetTutorial\obj\Debug\net8.0\DotNetTutorial.genruntimeconfig.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\DotnetSolution\DotNetTutorial\obj\Debug\net8.0\ref\DotNetTutorial.dll
