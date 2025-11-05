@@ -1,0 +1,14 @@
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\AdvancedLinqSln\AdvancedLinq\bin\Debug\net8.0\AdvancedLinq.exe
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\AdvancedLinqSln\AdvancedLinq\bin\Debug\net8.0\AdvancedLinq.deps.json
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\AdvancedLinqSln\AdvancedLinq\bin\Debug\net8.0\AdvancedLinq.runtimeconfig.json
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\AdvancedLinqSln\AdvancedLinq\bin\Debug\net8.0\AdvancedLinq.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\AdvancedLinqSln\AdvancedLinq\bin\Debug\net8.0\AdvancedLinq.pdb
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\AdvancedLinqSln\AdvancedLinq\obj\Debug\net8.0\AdvancedLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\AdvancedLinqSln\AdvancedLinq\obj\Debug\net8.0\AdvancedLinq.AssemblyInfoInputs.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\AdvancedLinqSln\AdvancedLinq\obj\Debug\net8.0\AdvancedLinq.AssemblyInfo.cs
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\AdvancedLinqSln\AdvancedLinq\obj\Debug\net8.0\AdvancedLinq.csproj.CoreCompileInputs.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\AdvancedLinqSln\AdvancedLinq\obj\Debug\net8.0\AdvancedLinq.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\AdvancedLinqSln\AdvancedLinq\obj\Debug\net8.0\refint\AdvancedLinq.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\AdvancedLinqSln\AdvancedLinq\obj\Debug\net8.0\AdvancedLinq.pdb
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\AdvancedLinqSln\AdvancedLinq\obj\Debug\net8.0\AdvancedLinq.genruntimeconfig.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\AdvancedLinqSln\AdvancedLinq\obj\Debug\net8.0\ref\AdvancedLinq.dll
