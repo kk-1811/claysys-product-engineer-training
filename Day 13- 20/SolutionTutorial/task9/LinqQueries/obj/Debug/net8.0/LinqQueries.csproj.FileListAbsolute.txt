@@ -1,0 +1,14 @@
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\LinqQueriesSln\LinqQueries\bin\Debug\net8.0\LinqQueries.exe
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\LinqQueriesSln\LinqQueries\bin\Debug\net8.0\LinqQueries.deps.json
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\LinqQueriesSln\LinqQueries\bin\Debug\net8.0\LinqQueries.runtimeconfig.json
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\LinqQueriesSln\LinqQueries\bin\Debug\net8.0\LinqQueries.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\LinqQueriesSln\LinqQueries\bin\Debug\net8.0\LinqQueries.pdb
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\LinqQueriesSln\LinqQueries\obj\Debug\net8.0\LinqQueries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\LinqQueriesSln\LinqQueries\obj\Debug\net8.0\LinqQueries.AssemblyInfoInputs.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\LinqQueriesSln\LinqQueries\obj\Debug\net8.0\LinqQueries.AssemblyInfo.cs
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\LinqQueriesSln\LinqQueries\obj\Debug\net8.0\LinqQueries.csproj.CoreCompileInputs.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\LinqQueriesSln\LinqQueries\obj\Debug\net8.0\LinqQueries.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\LinqQueriesSln\LinqQueries\obj\Debug\net8.0\refint\LinqQueries.dll
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\LinqQueriesSln\LinqQueries\obj\Debug\net8.0\LinqQueries.pdb
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\LinqQueriesSln\LinqQueries\obj\Debug\net8.0\LinqQueries.genruntimeconfig.cache
+C:\Users\kishore.kandasamy\OneDrive - Claysys Technologies Pvt Ltd -1\Desktop\c#\LinqQueriesSln\LinqQueries\obj\Debug\net8.0\ref\LinqQueries.dll
